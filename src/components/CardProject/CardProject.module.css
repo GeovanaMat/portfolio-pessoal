@@ -23,6 +23,7 @@
     border-radius: 0.5rem;
 }
 
-.img_containe img:hover{
-    transform: scale(1.5rem);
+.img_containe:hover{
+    transform: scale(1.05);
 }
+
