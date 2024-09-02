@@ -1,0 +1,24 @@
+.card_container {
+    height: 100%;
+    margin: 1.5rem;
+}
+
+.card_container h1{
+    font-weight: 500;
+    font-size: 1rem;
+    margin: 0.5rem 0;
+}
+
+.card_container p{
+    color: var(--grey);
+    font-size: 0.75rem;
+}
+
+.img_containe{
+    border-radius: 10px;
+    overflow: hidden;
+}
+.img_containe img{
+    width: 100%;
+    border-radius: 0.5rem;
+}
