@@ -17,6 +17,7 @@
 .img_containe{
     border-radius: 10px;
     overflow: hidden;
+    transition: all 0.3s ease;
 }
 .img_containe img{
     width: 100%;

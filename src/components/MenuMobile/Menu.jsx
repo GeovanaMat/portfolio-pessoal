@@ -14,6 +14,13 @@ const Menu = () =>{
     
     return(
         <>
+        
+        <div className={style.nav_container_desk}>
+        <div className={style.nav_items}>
+        <p>Sobre</p>
+        <p>Projetos</p>
+          </div>
+        </div>
         <div className={style.nav_container}>
 
         <div className={`${style.menu_btn} ${isOpen ? style.open : ''}`} id="menuBtn" onClick={toggleMenu}>
@@ -32,12 +39,6 @@ const Menu = () =>{
 
         </div>
 
-        <div className={style.nav_container_desk}>
-        <div className={style.nav_items}>
-        <p>Sobre</p>
-        <p>Projetos</p>
-          </div>
-        </div>
         </>
     )
 }
