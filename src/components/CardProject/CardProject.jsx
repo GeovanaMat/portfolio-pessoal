@@ -1,5 +1,5 @@
 import style from "./CardProject.module.css"
-import template from "/public/4905662.jpg"
+import template from "/public/assets/images/image.png"
 const CardProject = () => {
     return(
         <>
