@@ -1,5 +1,5 @@
 import "./index.css"
-import github from "/portifolio-pessoal/github.png"
+import github from "/public/github.png"
 const Footer = () => {
     return(
         <footer>

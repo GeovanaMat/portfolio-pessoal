@@ -1,5 +1,5 @@
 import { Button } from "../Button/Button"
-import profile from "/portifolio-pessoal/profile.jpeg"
+import profile from "/public/profile.jpeg"
 import "./index.css"
 const Header = () => {
     return(
