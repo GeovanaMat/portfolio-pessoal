@@ -4,7 +4,7 @@ const CardProject = () => {
         <>
         <div className={style.card_container}>
                 <div className={style.img_containe}>
-                    <img src="src/assets/images/4905662.jpg"/>
+                    <img src="./src/assets/images/4905662.jpg"/>
                 </div>
                 <h1>Less is more</h1>
                 <p>Website landing page</p>
