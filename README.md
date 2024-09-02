@@ -8,3 +8,4 @@ Este repositório possue todo o código fonte para o meu portifólio disponível
 
 # Screenshots
 
+![Design](design.png)
