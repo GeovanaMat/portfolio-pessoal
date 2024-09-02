@@ -1,16 +1,24 @@
 
 
+import { useState } from "react"
 import { CardProject } from "../../components"
 import style  from "./Home.module.css"
 const Home = () => {
+    const [number, setNumber] = useState(0);
+
+    const changeNumber = () => {
+        setNumber(number => number + 1);
+    }
     return(
         <>
         <div className={style.home_container} >
 
         <div className={style.banner_container}>
-            <h1><span>Olá, sou </span>  <br  className={style.linha}></br>
+            <h1 onClick={changeNumber}><span>Olá, sou </span>  <br  className={style.linha}></br>
                 Geovana Matias <br></br>
                 <span className={style.dev}>Desenvolvedora Front-End</span>
+                <br></br>
+                {number}
                 </h1>
             <p>Dedicada a criar interfaces de usuário modernas, intuitivas e responsivas.</p>
             <div className={style.social_container}>
