@@ -5,6 +5,10 @@
 
 }
 
+.projects_gallery a {
+    text-decoration: none;
+    color: var(--black);
+}
 .banner_container{
     width: 100%;
     display: flex;
@@ -94,10 +98,7 @@
         flex-direction: column;
     }
 
-    .projects_gallery a {
-        text-decoration: none;
-        color: var(--black);
-    }
+    
     
 }
 
