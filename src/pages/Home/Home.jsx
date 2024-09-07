@@ -26,8 +26,9 @@ const Home = () => {
         <div className={style.projetos_container}>
             <h2>Meus projetos</h2>
             <div className={style.projects_gallery}>
-                <CardProject/>
-                <CardProject/>
+                <a href="https://geovanamat.github.io/blue-weather-react-app/">
+                <CardProject titulo="Blue Weather - Aplicativo Web de Previsão do Tempo " desc="JavaScript, React, Html, CSS" url="assets/images/screenshot.png"/>
+                </a>
             </div>
         </div>
 

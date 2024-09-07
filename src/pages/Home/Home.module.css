@@ -89,6 +89,15 @@
         margin-left: 1.5rem;
     }
 
+    .projects_gallery{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .projects_gallery a {
+        text-decoration: none;
+        color: var(--black);
+    }
     
 }
 
@@ -102,7 +111,8 @@
     }
 
     .projects_gallery{
-        flex-direction: row;
+        display: grid;
+        grid-template-columns: repeat(2,1fr)
     }
 
     .projects_gallery .card_container{

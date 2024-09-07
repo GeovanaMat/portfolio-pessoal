@@ -1,15 +1,15 @@
 import style from "./CardProject.module.css"
-import template from "/assets/images/4905662.jpg"
 import "./index.css"
-const CardProject = () => {
+const CardProject = (props) => {
+    const{titulo,desc,url} = props;
     return(
         <>
         <div className={style.card_container}>
                 <div className={style.img_containe}>
-                    <img src={template}/>
+                    <img src={url}/>
                 </div>
-                <h1>Less is more</h1>
-                <p>Website landing page</p>
+                <h1>{titulo}</h1>
+                <p>{desc}</p>
         </div>
         </>
     )
