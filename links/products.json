@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Fone de Ouvido Goth",
+    "description": "Fone de ouvido com design minimalista...",
+    "imageUrl": "https://images.unsplash.com/photo-1627916560370-9831a2993b16?...",
+    "affiliateLink": "https://www.amazon.com/product1"
+  },
+  {
+    "id": 2,
+    "name": "Jaqueta de Couro Distressed",
+    "description": "Jaqueta com aparência vintage...",
+    "imageUrl": "https://images.unsplash.com/photo-1594917639535-654a938c823f?...",
+    "affiliateLink": "https://www.amazon.com/product2"
+  }
+]
