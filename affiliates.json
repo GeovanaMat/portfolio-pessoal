@@ -55,46 +55,6 @@
     "url": "https://amzn.to/4ofc2oU"
   }
       ]
-    },
-    {
-      "id": "night",
-      "title": "night routine",
-      "subtitle": "candlelight, ceramide, slow nights",
-      "emoji": "☾",
-      "items": [
-        {
-          "title": "Soy Candle — Roses & Vanilla",
-          "description": "60 hour burn time, hand-poured",
-          "price": "$28.00",
-          "image": "https://images.unsplash.com/photo-1602874801006-e26c4f3d6e76?w=800&q=80",
-          "store": "amazon",
-          "url": "https://www.amazon.com/s?k=rose+vanilla+soy+candle"
-        },
-        {
-          "title": "Ceramide Night Cream",
-          "description": "barrier-repair moisturizer for glass skin",
-          "price": "$32.00",
-          "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&q=80",
-          "store": "amazon",
-          "url": "https://www.amazon.com/s?k=ceramide+night+cream"
-        },
-        {
-          "title": "Satin Sleep Set — Cream",
-          "description": "long-sleeve pajama set in soft satin",
-          "price": "$26.50",
-          "image": "https://images.unsplash.com/photo-1573612664822-d7d347da7b80?w=800&q=80",
-          "store": "aliexpress",
-          "url": "https://www.aliexpress.com/wholesale?SearchText=satin+pajama+set"
-        },
-        {
-          "title": "Silk Eye Mask",
-          "description": "blackout sleep mask with adjustable strap",
-          "price": "$9.90",
-          "image": "https://images.unsplash.com/photo-1591343395082-e120087004b4?w=800&q=80",
-          "store": "aliexpress",
-          "url": "https://www.aliexpress.com/wholesale?SearchText=silk+eye+mask"
-        }
-      ]
     }
   ]
 }
