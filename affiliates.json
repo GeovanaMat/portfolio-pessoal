@@ -1,0 +1,84 @@
+{
+  "segments": [
+    {
+      "id": "morning",
+      "title": "morning ritual",
+      "subtitle": "soft awakenings & matcha mornings",
+      "emoji": "☼",
+      "items": [
+        {
+          "title": "Ceramic Matcha Bowl Set",
+          "description": "hand-thrown chawan with bamboo whisk for slow mornings",
+          "price": "$24.90",
+          "image": "https://images.unsplash.com/photo-1545048702-79362596cdc9?w=800&q=80",
+          "store": "amazon",
+          "url": "https://www.amazon.com/s?k=matcha+bowl+set"
+        },
+        {
+          "title": "Silk Pillowcase — Blush",
+          "description": "22-momme mulberry silk for soft skin & hair",
+          "price": "$18.50",
+          "image": "https://images.unsplash.com/photo-1631048834373-ec48c84e9d0e?w=800&q=80",
+          "store": "aliexpress",
+          "url": "https://www.aliexpress.com/wholesale?SearchText=silk+pillowcase"
+        },
+        {
+          "title": "Linen Journal — Discipline. Dreams.",
+          "description": "morning pages, gratitude lists, intentions",
+          "price": "$16.00",
+          "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=800&q=80",
+          "store": "amazon",
+          "url": "https://www.amazon.com/s?k=linen+journal"
+        },
+        {
+          "title": "Glass Smoothie Cup",
+          "description": "borosilicate glass with bamboo lid & straw",
+          "price": "$12.30",
+          "image": "https://images.unsplash.com/photo-1622597467836-f3e6707e1191?w=800&q=80",
+          "store": "aliexpress",
+          "url": "https://www.aliexpress.com/wholesale?SearchText=glass+smoothie+cup"
+        }
+      ]
+    },
+    {
+      "id": "night",
+      "title": "night routine",
+      "subtitle": "candlelight, ceramide, slow nights",
+      "emoji": "☾",
+      "items": [
+        {
+          "title": "Soy Candle — Roses & Vanilla",
+          "description": "60 hour burn time, hand-poured",
+          "price": "$28.00",
+          "image": "https://images.unsplash.com/photo-1602874801006-e26c4f3d6e76?w=800&q=80",
+          "store": "amazon",
+          "url": "https://www.amazon.com/s?k=rose+vanilla+soy+candle"
+        },
+        {
+          "title": "Ceramide Night Cream",
+          "description": "barrier-repair moisturizer for glass skin",
+          "price": "$32.00",
+          "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&q=80",
+          "store": "amazon",
+          "url": "https://www.amazon.com/s?k=ceramide+night+cream"
+        },
+        {
+          "title": "Satin Sleep Set — Cream",
+          "description": "long-sleeve pajama set in soft satin",
+          "price": "$26.50",
+          "image": "https://images.unsplash.com/photo-1573612664822-d7d347da7b80?w=800&q=80",
+          "store": "aliexpress",
+          "url": "https://www.aliexpress.com/wholesale?SearchText=satin+pajama+set"
+        },
+        {
+          "title": "Silk Eye Mask",
+          "description": "blackout sleep mask with adjustable strap",
+          "price": "$9.90",
+          "image": "https://images.unsplash.com/photo-1591343395082-e120087004b4?w=800&q=80",
+          "store": "aliexpress",
+          "url": "https://www.aliexpress.com/wholesale?SearchText=silk+eye+mask"
+        }
+      ]
+    }
+  ]
+}
