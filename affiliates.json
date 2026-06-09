@@ -7,37 +7,53 @@
       "emoji": "☼",
       "items": [
         {
-          "title": "Ceramic Matcha Bowl Set",
-          "description": "hand-thrown chawan with bamboo whisk for slow mornings",
-          "price": "$24.90",
-          "image": "https://images.unsplash.com/photo-1545048702-79362596cdc9?w=800&q=80",
-          "store": "amazon",
-          "url": "https://www.amazon.com/s?k=matcha+bowl+set"
-        },
-        {
-          "title": "Silk Pillowcase — Blush",
-          "description": "22-momme mulberry silk for soft skin & hair",
-          "price": "$18.50",
-          "image": "https://images.unsplash.com/photo-1631048834373-ec48c84e9d0e?w=800&q=80",
-          "store": "aliexpress",
-          "url": "https://www.aliexpress.com/wholesale?SearchText=silk+pillowcase"
-        },
-        {
-          "title": "Linen Journal — Discipline. Dreams.",
-          "description": "morning pages, gratitude lists, intentions",
-          "price": "$16.00",
-          "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=800&q=80",
-          "store": "amazon",
-          "url": "https://www.amazon.com/s?k=linen+journal"
-        },
-        {
-          "title": "Glass Smoothie Cup",
-          "description": "borosilicate glass with bamboo lid & straw",
-          "price": "$12.30",
-          "image": "https://images.unsplash.com/photo-1622597467836-f3e6707e1191?w=800&q=80",
-          "store": "aliexpress",
-          "url": "https://www.aliexpress.com/wholesale?SearchText=glass+smoothie+cup"
-        }
+    "title": "Women's 2-Piece V-Neck Pajama Set",
+    "description": "Cute lounge and sleepwear set, perfect for gifting.",
+    "price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/61sALBSi53L._AC_SX679_.jpg",
+    "store": "amazon",
+    "url": "https://amzn.to/4eci2tT"
+  },
+  {
+    "title": "Jellycat Amuseables Espresso Cup Plush",
+    "description": "Adorable 4-inch mini espresso cup stuffed toy.",
+    "price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/61UQT0UevhL._AC_SL1500_.jpg",
+    "store": "amazon",
+    "url": "https://amzn.to/4dYWiTF"
+  },
+  {
+    "title": "Ice Roller and Gua Sha Facial Tool Set",
+    "description": "Reduces puffiness and provides lasting coolness.",
+    "price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/61UIxb+-DWL._SL1500_.jpg",
+    "store": "amazon",
+    "url": "https://amzn.to/4uZLMkZ"
+  },
+  {
+    "title": "La Roche-Posay Foaming Facial Cleanser",
+    "description": "Removes impurities and excess oil; safe for sensitive skin.",
+    "price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/717F3ObzIeL._SL1500_.jpg",
+    "store": "amazon",
+    "url": "https://amzn.to/4uqv5y6"
+  },
+  {
+    "title": "Pandaloo 20oz Glass Cup with Lid & Straw",
+    "description": "Durable borosilicate glass tumbler with a stainless steel straw.",
+    "price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/71cGbJe5dXL._AC_SL1500_.jpg",
+    "store": "amazon",
+    "url": "https://amzn.to/4xg0YMo"
+  },
+  {
+    "title": "14oz Drinking Glasses Set with Glass Straws",
+    "description": "High-quality, lead-free, and BPA-free durable clear glass.",
+    "price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/613+HtMB5UL._AC_SL1500_.jpg",
+    "store": "amazon",
+    "url": "https://amzn.to/4ofc2oU"
+  }
       ]
     },
     {
